@@ -17,3 +17,6 @@ download jar and open with java -jar filename.jar Enter detailes Your project cr
 If you have suggesion please give it to me i will defenately take that
 
 if you find the code childish yeah i wrote every line of code by googling it because i don't much java
+
+Also if you have time add simple gui- Graphical User Interface to this using swing of fx
+report back your gui version to me
