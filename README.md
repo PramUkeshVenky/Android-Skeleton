@@ -12,7 +12,7 @@ TODO:
 
 usage
 
-download jar and open with java -jar filename.jar Enter detailes Your project created i dont include gradlewrapper so copy wrapper file from other projects to this to root/gradle/wrapper/copy_here
+download jar from releases and open with java -jar AndroidSkeleton.jar Enter detailes Your project created i dont include gradlewrapper so copy wrapper file from other projects to this to root/gradle/wrapper/copy_here
 
 If you have suggesion please give it to me i will defenately take that
 
