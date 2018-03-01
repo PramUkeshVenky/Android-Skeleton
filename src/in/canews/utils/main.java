@@ -43,7 +43,7 @@ public class main {
         //String projectDir = System.getProperty("user.dir")+"";
         //javaPackage(packageName,packageName);
 
-        System.out.print("Enter Gradle Version Example(3.0.1) : ");
+        System.out.print("Enter Gradle Android Plugin Version Example(3.0.1) : ");
         String gradleVersion = scanner.nextLine();
 
         createGradlefile(gradleVersion, dir, projectName, packageName);
